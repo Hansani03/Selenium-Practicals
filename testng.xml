@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+    <test name="LoginTest">
+
+        <parameter name="sUsername" value="tutorials"/>
+        <parameter name="sPassword" value="tutorials123"/>
+
+        <classes>
+            <class name="org.example.Example12"/>
+        </classes>
+
+    </test>
+</suite>
+

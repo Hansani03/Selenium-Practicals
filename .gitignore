@@ -1,0 +1,13 @@
+﻿# Maven build files
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# ChromeDriver executable
+resources/drivers/chromedriver.exe
